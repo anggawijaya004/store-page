@@ -1,0 +1,15 @@
+$phone: 600px;
+$tablet: 1023px;
+$dekstop: 1024px;
+
+@import "~react-image-gallery/styles/scss/image-gallery.scss";
+
+.logo{
+    width: 40px;
+    margin-right: 12px;
+}
+
+.drawer{
+    padding: 20px;
+}
+
